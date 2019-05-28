@@ -422,7 +422,7 @@ footer .copyright {
     background-image: url(http://placekitten.com/1200/300);
 }
 .text-responsive {
-  font-size: calc(100% + 1vw + 1vh);
+  font-size: calc(25% + 1vw + 1vh);
 }
 /* Carousel Fade Effect */
 .carousel.carousel-fade .item {
